@@ -1,0 +1,33 @@
+.card {
+    width: 50%;
+    margin: auto;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+.container-fluid{
+    background-color: #4d99c0;
+    padding-top: 5%;
+    padding-bottom: 20px;
+}
+.white{
+    background-color: white;
+    max-width: 60%;
+    margin: auto;
+    margin-top: 20%;
+    position: inherit;
+}
+.btn{
+    background-color: rgb(71, 122, 188);
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+.btn2{
+    background-color: rgb(31, 132, 200);
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}

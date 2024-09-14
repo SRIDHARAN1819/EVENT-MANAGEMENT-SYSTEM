@@ -1,0 +1,41 @@
+.bread{
+    margin-top: 75px;
+}
+.heading{
+    background-color: rgba(11, 68, 134, 0.9);
+    color: white;
+    border-radius: 10%;
+    width: 70%;
+    margin: auto;
+}
+.row{
+    background-color: rgb(31, 49, 3);
+    width: 70%;
+    margin: auto;
+    border-radius: 5%;
+    font-size: larger;
+    color: rgb(255, 0, 208);
+}
+.tab1{
+    padding: 6px;
+    background-color: rgb(220, 147, 20);
+    border: none;
+    border-radius: 10%;
+    color: white;
+}
+.tab2{
+    padding: 6px;
+    background-color: rgb(20, 220, 63);
+    border: none;
+    border-radius: 10%;
+    color: white;
+    margin-left: 22%;
+}
+.tab3{
+    padding: 6px;
+    background-color: rgb(220, 200, 20);
+    border: none;
+    border-radius: 10%;
+    color: white;
+    margin-left: 20%;
+}

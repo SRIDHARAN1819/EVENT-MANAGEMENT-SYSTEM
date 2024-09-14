@@ -1,0 +1,16 @@
+.bread{
+    margin-top: 75px;
+}
+.container{
+    background-color: rgb(14, 122, 146);
+    max-width: 80%;
+    border-radius: 5%;
+    color: rgb(18, 16, 17);
+    padding: 5 5 5 5px;
+}
+.btn{
+    background-color: rgb(170, 51, 170);
+}
+.container:hover{
+    background-color: rgb(167, 85, 17);
+}
