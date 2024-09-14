@@ -226,12 +226,6 @@ MySQL database setup
 Angular CLI installed
 Steps to Run the Project
 Backend (Node.js + Spring Boot)
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/event-management-system.git
-Navigate to the backend directories for both Node.js and Spring Boot.
 
 For Node.js backend:
 
